@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Oi, eu sou a Laíse 👋
+
+<!--
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Arte-Educadora com Transição para Tecnologia
+
+
+🐍 Python
+☕ POO Java
+🖥️ HTML, CSS e JS
+🌩️ Cloud Computing 
+📲 UX e UI 
