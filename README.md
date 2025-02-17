@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Oi, eu sou a Laíse 👋
+ Oi, eu sou a Laíse 
+ 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Arte-Educadora com Transição para Tecnologia
 
-
 🐍 Python
+
 ☕ POO Java
+
 🖥️ HTML, CSS e JS
+
 🌩️ Cloud Computing 
+
 📲 UX e UI 
