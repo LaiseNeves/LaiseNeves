@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-Educadora**
 
 
-
+Aprendendo e praticando
 
 🐍 Python
 
