@@ -20,14 +20,17 @@ Here are some ideas to get you started:
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-Educadora**
 
 
-Aprendendo e praticando
+✨ Tecnologias e ferramentas que estou praticando:
+
+🖥️ HTML | CSS | JavaScript | TypeScript | React
+
+🌩️ Cloud Computing | GIT | APIs REST
+
+☕ Java com POO
 
 🐍 Python
 
-☕ POO Java
+🎨 UX/UI Design com Figma e Miro
 
-🖥️ HTML, CSS e JS
+🛠️ Metodologias ágeis (Scrum/Kanban)
 
-🌩️ Cloud Computing 
-
-📲 UX e UI 
