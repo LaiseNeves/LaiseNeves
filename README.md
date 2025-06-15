@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-✨ #**Tecnologias e ferramentas que estou praticando:**
+✨ ***Tecnologias e ferramentas que estou praticando:***
 
 🖥️ HTML | CSS | JavaScript | TypeScript | React
 
