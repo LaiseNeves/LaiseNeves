@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-Educadora**
 
 
-<!--
-✨ **Tecnologias e ferramentas que estou praticando:**
+
+✨ #**Tecnologias e ferramentas que estou praticando:**
 
 🖥️ HTML | CSS | JavaScript | TypeScript | React
 
