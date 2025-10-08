@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ✨ ***Tecnologias e ferramentas que estou praticando:***
 
-🖥️ HTML | CSS | JavaScript | TypeScript | React
+🖥️ (Front) HTML | CSS | JavaScript | TypeScript | React
+
+🗃️ (Back) Node | Swagger 
 
 🌩️ Cloud Computing | GIT | APIs REST
 
