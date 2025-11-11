@@ -8,22 +8,22 @@
 ### ✨ Tecnologias e ferramentas que estou praticando
 
 #### 🖥️ Front-end
-HTML | CSS | JavaScript | TypeScript | React
+---> HTML | CSS | JavaScript | TypeScript | React | Vue.js
 
 #### 🗃️ Back-end
-Node.js | Swagger | APIs REST
+---> Node.js | Swagger | APIs REST
 
 #### 🌩️ Cloud & DevOps
-Cloud Computing | Git | GitHub
+---> Cloud Computing | Git | GitHub
 
 #### ☕ Outras linguagens
-Java (POO) | Python
+---> Java (POO) | Python
 
 #### 🎨 Design & UX/UI
-Figma | Miro
+---> Figma | Miro
 
 #### 🛠️ Metodologias Ágeis
-Scrum | Kanban
+---> Scrum | Kanban
 
 ---
 
