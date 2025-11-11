@@ -1,28 +1,42 @@
-# 🌸 Oi, eu sou a Laíse 🌸
+# Hi there! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**   |  🎨 Arte-educadora em transição para a área de **Tecnologia**
+🌸 **Oi, eu sou a Laíse** 🌸
 
+🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  \ 🎨 *Arte-Educadora em transição para tecnologia*
 
-### Tecnologias e ferramentas que estou praticando
+---
 
-#### 🖥️ Front-end
----> HTML | CSS | JavaScript | TypeScript | React | Vue.js
+✨ **Tecnologias e ferramentas que estou praticando:**
 
-#### 🗃️ Back-end
----> Node.js | Swagger | APIs REST
+### 🖥️ Front-end
 
-#### 🌩️ Cloud & DevOps
----> Cloud Computing | Git | GitHub
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
 
-#### ☕ Outras linguagens
----> Java (POO) | Python
+### 🗃️ Back-end
 
-#### 🎨 Design & UX/UI
----> Figma | Miro
+* Node.js
+* Swagger
 
-#### 🛠️ Metodologias Ágeis
----> Scrum | Kanban
+### ☁️ Outros conhecimentos
 
+* Cloud Computing
+* Git & GitHub
+* APIs REST
+* Metodologias Ágeis (Scrum / Kanban)
 
-> 🌱 Sempre aprendendo e construindo novas conexões entre **arte, educação e tecnologia**.
+### ☕ Java
+
+* Programação Orientada a Objetos (POO)
+
+### 🐍 Python
+
+### 🎨 UX/UI Design
+
+* Figma
+* Miro
+
 
