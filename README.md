@@ -2,7 +2,6 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**   |  🎨 Arte-educadora em transição para a área de **Tecnologia**
 
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### ✨ Tecnologias e ferramentas que estou praticando
 
@@ -24,7 +23,6 @@ ________________________________________________________________________________
 #### 🛠️ Metodologias Ágeis
 ---> Scrum | Kanban
 
----
 
 > 🌱 Sempre aprendendo e construindo novas conexões entre **arte, educação e tecnologia**.
 
