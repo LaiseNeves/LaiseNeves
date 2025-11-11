@@ -10,11 +10,12 @@
 
 🖥️ Front-end 
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * TypeScript
 * React
+* Vue.js
 
 🗃️ Back-end 
 
