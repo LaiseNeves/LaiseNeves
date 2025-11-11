@@ -2,7 +2,7 @@
 
 🌸 **Oi, eu sou a Laíse** 🌸
 
-🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  \ 🎨 *Arte-Educadora em transição para tecnologia*
+🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  | 🎨 *Arte-Educadora em transição para tecnologia*
 
 ---
 
