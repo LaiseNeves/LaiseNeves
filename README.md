@@ -1,7 +1,6 @@
 # 🌸 Oi, eu sou a Laíse 🌸
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🎨 Arte-educadora em transição para a área de **Tecnologia**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**   |  🎨 Arte-educadora em transição para a área de **Tecnologia**
 
 ---
 
@@ -24,13 +23,6 @@
 
 #### 🛠️ Metodologias Ágeis
 ---> Scrum | Kanban
-
----
-
-📫 **Como me encontrar:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/laisesneves/)
-- 🖥️ [GitHub](https://github.com/LaiseNeves)
-- 📧 laisesneves@gmail.com
 
 ---
 
