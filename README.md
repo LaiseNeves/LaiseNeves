@@ -1,39 +1,38 @@
-## Hi there! 👋
+# 🌸 Oi, eu sou a Laíse 🌸
 
-<!--
-**LaiseNeves/LaiseNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎨 Arte-educadora em transição para a área de **Tecnologia**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Tecnologias e ferramentas que estou praticando
 
-🌸 *Oi, eu sou a Laíse* 🌸
- 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-Educadora**
+#### 🖥️ Front-end
+HTML | CSS | JavaScript | TypeScript | React
 
+#### 🗃️ Back-end
+Node.js | Swagger | APIs REST
 
+#### 🌩️ Cloud & DevOps
+Cloud Computing | Git | GitHub
 
-✨ ***Tecnologias e ferramentas que estou praticando:***
+#### ☕ Outras linguagens
+Java (POO) | Python
 
-🖥️ (Front) HTML | CSS | JavaScript | TypeScript | React
+#### 🎨 Design & UX/UI
+Figma | Miro
 
-🗃️ (Back) Node | Swagger 
+#### 🛠️ Metodologias Ágeis
+Scrum | Kanban
 
-🌩️ Cloud Computing | GIT | APIs REST
+---
 
-☕ Java com POO
+📫 **Como me encontrar:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/laisesneves/)
+- 🖥️ [GitHub](https://github.com/LaiseNeves)
+- 📧 laisesneves@gmail.com
 
-🐍 Python
+---
 
-🎨 UX/UI Design com Figma e Miro
-
-🛠️ Metodologias ágeis (Scrum/Kanban)
+> 🌱 Sempre aprendendo e construindo novas conexões entre **arte, educação e tecnologia**.
 
