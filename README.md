@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**   |  🎨 Arte-educadora em transição para a área de **Tecnologia**
 
 
-### ✨ Tecnologias e ferramentas que estou praticando
+### Tecnologias e ferramentas que estou praticando
 
 #### 🖥️ Front-end
 ---> HTML | CSS | JavaScript | TypeScript | React | Vue.js
