@@ -6,7 +6,7 @@
 
 ---
 
-✨ ###Tecnologias e ferramentas que estou praticando:
+### ✨ Tecnologias e ferramentas que estou praticando:
 
 ** 🖥️ Front-end **
 
