@@ -8,7 +8,7 @@
 
 ### ✨ Tecnologias e ferramentas que estou praticando:
 
-🖥️ ** Front-end **
+🖥️ Front-end 
 
 * HTML
 * CSS
@@ -16,25 +16,25 @@
 * TypeScript
 * React
 
-🗃️ ** Back-end **
+🗃️ Back-end 
 
 * Node.js
 * Swagger
 
-☁️ ** Outros conhecimentos **
+☁️ Outros conhecimentos 
 
 * Cloud Computing
 * Git & GitHub
 * APIs REST
 * Metodologias Ágeis (Scrum / Kanban)
 
-### ☕ ** Java **
+☕ Java 
 
 * Programação Orientada a Objetos (POO)
 
-### ** 🐍 Python **
+🐍 Python 
 
-### ** 🎨 UX/UI Design **
+🎨 UX/UI Design
 
 * Figma
 * Miro
