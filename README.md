@@ -10,24 +10,15 @@
 
 🖥️ Front-end 
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Vue.js
+* HTML5 | CSS3 | JavaScript | TypeScript | React | Vue.js
 
 🗃️ Back-end 
 
-* Node.js
-* Swagger
+* Node.js | Swagger | Node.js | Express | Swagger | MinIO | Postman | Lint (ESLint) | Docker e Kubernetes, 
 
 ☁️ Outros conhecimentos 
 
-* Cloud Computing
-* Git & GitHub
-* APIs REST
-* Metodologias Ágeis (Scrum / Kanban)
+* Git & GitHub | APIs REST | Metodologias Ágeis (Scrum / Kanban) | CRUD | padrões de design | Cloud Computing
 
 ☕ Java 
 
@@ -37,7 +28,6 @@
 
 🎨 UX/UI Design
 
-* Figma
-* Miro
+* Figma | Miro
 
 
