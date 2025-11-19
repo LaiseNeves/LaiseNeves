@@ -2,6 +2,7 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-educadora em transição para tecnologia.
 
+---
 
 ## Tecnologias e Ferramentas que estou praticando
 
