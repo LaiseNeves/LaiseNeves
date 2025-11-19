@@ -1,6 +1,6 @@
-# Oi, eu sou a Laíse
+# 🌸 Oi, eu sou a Laíse 🌸
 
-Estudante de Análise e Desenvolvimento de Sistemas | Arte-educadora em transição para tecnologia.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-educadora em transição para tecnologia.
 
 ---
 
