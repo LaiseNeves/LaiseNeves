@@ -8,8 +8,6 @@ No projeto Fototeca, desenvolvido para o DNIT, estou auxiliando a criação de c
 
 Desenvolvi páginas com TypeScript, HTML, CSS e React, incluindo landing page, páginas de erro, modais de tabela e componentes reutilizáveis. 
 
-Atuei na responsividade das telas e realizei testes de visualização em diferentes formatos e dispositivos.
-
 Além disso, tenho explorado e feito projetos pessoais com outras tecnologias front-end como Vue.js, Angular e React Native.
 
 No back-end, estudo e pratico Node.js, Express, Swagger, MinIO, Postman, Lint (ESLint), Docker e Kubernetes, explorando também conceitos de APIs REST, CRUD e padrões de design.
