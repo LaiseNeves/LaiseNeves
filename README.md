@@ -4,6 +4,17 @@
 
 ---
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento front-end, utilizando React, TypeScript, JSX, CSS, HTML5 e git.
+
+No projeto Fototeca, desenvolvido para o DNIT, estou auxiliando a criação de componentes reutilizáveis e páginas responsivas e acessíveis, seguindo os protótipos fornecidos para a aplicação web.
+
+Além disso, tenho explorado e feito projetos pessoais com outras tecnologias front-end como Vue.js, Angular e Flutter.
+
+No back-end, estudo e pratico Node.js, Express, Swagger, MinIO, Postman, Lint (ESLint), Docker e Kubernetes, explorando também conceitos de APIs REST, CRUD e padrões de design.
+
+
+
+
 ## Tecnologias e Ferramentas que estou praticando
 
 ### Front-end
@@ -13,13 +24,13 @@
 * Node.js | Express | Swagger | MinIO | Postman | ESLint | Docker | Kubernetes
 
 ### Outros conhecimentos
-* Git & GitHub | APIs REST | Metodologias Ágeis (Scrum / Kanban) | CRUD | Padrões de Design | Cloud Computing
+* Git & GitHub | Responsividade | Metodologias Ágeis (Scrum / Kanban) | CRUD | Padrões de Design | Cloud Computing
 
 ### Java
 * Programação Orientada a Objetos (POO)
 
 ### Python
-* Conceitos iniciais e prática guiada
+* Linguagem Nativa
 
 ### UX/UI Design
 * Figma | Miro
