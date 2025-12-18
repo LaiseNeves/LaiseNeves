@@ -1,21 +1,23 @@
 # 🌸 Oi, eu sou a Laíse 🌸
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Arte-educadora 
-
 ---
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento front-end, utilizando React, TypeScript, JSX, CSS, HTML5 e git.
 
-No projeto Fototeca, desenvolvido para o DNIT, estou auxiliando a criação de componentes reutilizáveis e páginas responsivas e acessíveis, seguindo os protótipos fornecidos para a aplicação web.
+No projeto Fototeca, desenvolvido para o DNIT, estou auxiliando a criação de componentes reutilizáveis e páginas responsivas e acessíveis, seguindo os protótipos fornecidos para a aplicação web. 
 
-Além disso, tenho explorado e feito projetos pessoais com outras tecnologias front-end como Vue.js, Angular e Flutter.
+Desenvolvi páginas com TypeScript, HTML, CSS e React, incluindo landing page, páginas de erro, modais de tabela e componentes reutilizáveis. 
+
+Atuei na responsividade das telas e realizei testes de visualização em diferentes formatos e dispositivos.
+
+Além disso, tenho explorado e feito projetos pessoais com outras tecnologias front-end como Vue.js, Angular e React Native.
 
 No back-end, estudo e pratico Node.js, Express, Swagger, MinIO, Postman, Lint (ESLint), Docker e Kubernetes, explorando também conceitos de APIs REST, CRUD e padrões de design.
 
 
 
 
-## Tecnologias e Ferramentas que estou praticando
+## Tecnologias que estou trabalhando e praticando
 
 ### Front-end
 * HTML5 | CSS3 | JavaScript | TypeScript | React | Vue.js
